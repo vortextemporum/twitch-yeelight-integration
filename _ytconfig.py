@@ -1,0 +1,6 @@
+BULB1_IP = ""
+BULB2_IP = ""
+BULB_PORT = 0
+TWITCH_CHANNEL_NAME = ""
+APP_ID = ""
+APP_SECRET = ""
